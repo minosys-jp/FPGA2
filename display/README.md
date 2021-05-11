@@ -5,3 +5,5 @@ VGA 256 color display with palettes.
 1 36k BRAM used for palettes.
 
 This curcuits partially based on the book "FPGA programming for Xilinx" written by Mr. Suguru Kobayashi from Shuwa system co. (ISBN-978-4-7980-6326-3)
+
+VGA Pmod required for Zybo Z7-20.
